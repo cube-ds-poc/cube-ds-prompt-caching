@@ -1,2 +1,2 @@
 # cube-ds-prompt-caching
-Research Develop prompt-caching
+Gemini Prompt Caching Evaluation - Short vs Long Prompt (Text & PDF) with Latency & Token Metrics
