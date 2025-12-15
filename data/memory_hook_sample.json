@@ -1,0 +1,9 @@
+{
+  "agent": "queue-llm",
+  "intent": "check_ticket_status",
+  "context": {
+    "ticket_id": "A87192301",
+    "user_id": "U459292"
+  },
+  "rules": "Always reply with RETURNCODE."
+}
