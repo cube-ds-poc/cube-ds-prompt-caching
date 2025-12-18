@@ -1,4 +1,4 @@
-# experiments/short_prompt_with_cache.py
+# python short_prompt_with_cache.py
 import sys
 import os
 import json
